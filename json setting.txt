@@ -1,0 +1,2 @@
+"terminal.integrated.shellArgs.windows": ["-ExecutionPolicy", "Bypass"]
+ ctrl + shift + p and type "Open settings.json". 
